@@ -1,0 +1,8 @@
+export const user = {
+  USERNAME_MIN: 2,
+  USERNAME_MAX: 50,
+  EMAIL_MIN: 5,
+  EMAIL_MAX: 100,
+  PASSWORD_MIN: 8,
+  PASSWORD_MAX: 100,
+};
